@@ -19,5 +19,5 @@
 ---
 ## 📅DBMS📅
 
-### [02_MySQL]()
+### [02_MySQL](https://github.com/Eulji-X-Wanted-Backend/02_MySQL)
 ---
