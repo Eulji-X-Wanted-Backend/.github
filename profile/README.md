@@ -21,3 +21,7 @@
 
 ### [02_MySQL](https://github.com/Eulji-X-Wanted-Backend/02_MySQL)
 ---
+
+## JDBC
+### [03_JDBC](https://github.com/Eulji-X-Wanted-Backend/03_JDBC)
+
