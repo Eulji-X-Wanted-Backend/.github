@@ -27,6 +27,8 @@
 ### [04_Servlet](https://github.com/Eulji-X-Wanted-Backend/04_Servlet)
 ---
 ## 🚡Framework🚡
-### [05_Spring-Core]()
-### [06_Spring-Web-MVC]()
+### [05_Spring-Core](https://github.com/Eulji-X-Wanted-Backend/05_Spring-Core)
+### [06_Spring-Web-MVC](https://github.com/Eulji-X-Wanted-Backend/06_Spring-Web-MVC)
 ---
+## 🌮Persistence Framework🌮
+### [07_JPA](https://github.com/Eulji-X-Wanted-Backend/07_JPA)
