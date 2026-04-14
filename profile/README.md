@@ -37,4 +37,4 @@
 ### [08_Spring-Security](https://github.com/Eulji-X-Wanted-Backend/08_Spring-Security)
 ---
 ## ☠️Algorithm☠️
-### [etc_Algorithm]()
+### [etc_Algorithm](https://github.com/Eulji-X-Wanted-Backend/etc_Algorithm)
