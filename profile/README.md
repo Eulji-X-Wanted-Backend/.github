@@ -36,5 +36,8 @@
 ## 🚨Authentification🚨
 ### [08_Spring-Security](https://github.com/Eulji-X-Wanted-Backend/08_Spring-Security)
 ---
+## 🌼Architecture🌼
+### [09_RESTFul-APIs](https://github.com/Eulji-X-Wanted-Backend/09_RESTFul-APIs)
+---
 ## ☠️Algorithm☠️
 ### [etc_Algorithm](https://github.com/Eulji-X-Wanted-Backend/etc_Algorithm)
