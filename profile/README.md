@@ -39,5 +39,8 @@
 ## 🌼Architecture🌼
 ### [09_RESTFul-APIs](https://github.com/Eulji-X-Wanted-Backend/09_RESTFul-APIs)
 ---
+## 📺Logging & Monitoring📺
+### [10_Logging-Monitoring](https://github.com/Eulji-X-Wanted-Backend/10_Logging-Monitoring)
+---
 ## ☠️Algorithm☠️
 ### [etc_Algorithm](https://github.com/Eulji-X-Wanted-Backend/etc_Algorithm)
