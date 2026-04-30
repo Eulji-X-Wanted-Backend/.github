@@ -43,7 +43,7 @@
 ### [10_Logging-Monitoring](https://github.com/Eulji-X-Wanted-Backend/10_Logging-Monitoring)
 ---
 ## 🔎Test Framework🔎
-### [11_TDD] (https://github.com/Eulji-X-Wanted-Backend/11_TDD)
+### [11_TDD](https://github.com/Eulji-X-Wanted-Backend/11_TDD)
 ---
 ## ☠️Algorithm☠️
 ### [etc_Algorithm](https://github.com/Eulji-X-Wanted-Backend/etc_Algorithm)
