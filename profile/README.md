@@ -30,6 +30,9 @@
 ### [05_Spring-Core](https://github.com/Eulji-X-Wanted-Backend/05_Spring-Core)
 ### [06_Spring-Web-MVC](https://github.com/Eulji-X-Wanted-Backend/06_Spring-Web-MVC)
 ---
+## 🦾Event && Async🦾
+### [12_Spring-Event-Async](https://github.com/Eulji-X-Wanted-Backend/12_Spring-Event-Async)
+---
 ## 🌮Persistence Framework🌮
 ### [07_JPA](https://github.com/Eulji-X-Wanted-Backend/07_JPA)
 ---
