@@ -16,6 +16,7 @@
 ## 🎎Language🎎
 
 ### [01_Java](https://github.com/Eulji-X-Wanted-Backend/01_Java)
+### [17_Python](https://github.com/Eulji-X-Wanted-Backend/17_Python)
 ---
 ## 📅DBMS📅
 
