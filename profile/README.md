@@ -22,6 +22,9 @@
 
 ### [02_MySQL](https://github.com/Eulji-X-Wanted-Backend/02_MySQL)
 ---
+## 😂Library😂
+### [19_HuggingFace](https://github.com/Eulji-X-Wanted-Backend/19_HuggingFace)
+---
 
 ## 🤑APIs🤑
 ### [03_JDBC](https://github.com/Eulji-X-Wanted-Backend/03_JDBC)
