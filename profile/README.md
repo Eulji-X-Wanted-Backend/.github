@@ -25,7 +25,9 @@
 ## 😂Library😂
 ### [19_HuggingFace](https://github.com/Eulji-X-Wanted-Backend/19_HuggingFace)
 ---
-
+## 🤖AI🤖
+### [20_RAG](https://github.com/Eulji-X-Wanted-Backend/20_RAG)
+---
 ## 🤑APIs🤑
 ### [03_JDBC](https://github.com/Eulji-X-Wanted-Backend/03_JDBC)
 ### [04_Servlet](https://github.com/Eulji-X-Wanted-Backend/04_Servlet)
